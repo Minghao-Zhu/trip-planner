@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: trip-planner
+  security:
+    user:
+      name: admin
+      password: 123456
+security:
+  ignored: "*.bundle.*"
